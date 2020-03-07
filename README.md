@@ -1,10 +1,10 @@
-# sketch London
-## Janani Jayesh
-## Introduction: a brief information about the project. 
-What is the project about? The motivation of the project and possible contribution.
-## Clear design statement: 
-What is the issue and Why do you think it is important to resolve that issue by your project? 
-## Competitor analysis [assignment01 & 02]:
+# sketch London 
+## Janani Jayesh | DH150
+## Introduction
+My project focuses on improving the user experience for those trying to navigate the sketch London website (https://sketch.london). sketch is a food and arts collective in London that is home to award-winning restaurants and exquisite exhibitions. I decided to focus on this as I have personally tried to use the website before and was disappointed in how it does not provide users much value. The goal is to help both locals and tourists in London who want to pay a visit to this dazzling venue and improve their overall of sketch through my user research analyses, wireframing, and prototyping. 
+## Design Statement: 
+ 
+## Competitor Analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated (include links of pictures of the competitors)
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
