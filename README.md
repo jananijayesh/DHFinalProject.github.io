@@ -1,9 +1,9 @@
 # sketch London 
 ## Janani Jayesh | DH150
 ## Introduction
-My project focuses on improving the user experience for those trying to navigate the sketch London website (https://sketch.london). sketch is a food and arts collective in London that is home to award-winning restaurants and exquisite exhibitions. I decided to focus on this as I have personally tried to use the website before and was disappointed in how it does not provide users much value. The goal is to help both locals and tourists in London who want to pay a visit to this dazzling venue and improve their overall of sketch through my user research analyses, wireframing, and prototyping. 
+My project focuses on improving the user experience for those trying to navigate the sketch London website (https://sketch.london). sketch is a food and arts collective in London that is home to award-winning restaurants and exquisite exhibitions. I decided to focus on this as I have personally tried to use the website before and was disappointed in how it does not provide users much value. The goal is to help both locals, tourists in London, and high-end dining enthusiasts who want to pay a visit to this dazzling venue and improve their overall of sketch through my user research analyses, wireframing, and prototyping. 
 ## Design Statement: 
- 
+What is the issue and Why do you think it is important to resolve that issue by your project? The main issues with the website is that it does not acurately mirror the sketch brand, and it does not offer a comprehensive insight into what the place offers. It is an important issue to fix because it can impact the volume of leads generated and can make the brand lose out to competitors.    
 ## Competitor Analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated (include links of pictures of the competitors)
 ## User research [contextual inquiry, assignment04]:
